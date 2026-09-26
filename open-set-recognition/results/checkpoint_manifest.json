@@ -1,0 +1,23 @@
+{
+  "cifar100_used": false,
+  "models": {
+    "vanilla": {
+      "checkpoint": "/kaggle/working/beyond-iid/open-set-recognition/checkpoints/vanilla.pt",
+      "selected_epoch": 93,
+      "validation_accuracy": 0.9532,
+      "selection_data": "CIFAR-10 validation only"
+    },
+    "gcsc": {
+      "checkpoint": "/kaggle/working/beyond-iid/open-set-recognition/checkpoints/gcsc.pt",
+      "selected_epoch": 99,
+      "validation_accuracy": 0.9604,
+      "selection_data": "CIFAR-10 validation only"
+    },
+    "proser": {
+      "checkpoint": "/kaggle/working/beyond-iid/open-set-recognition/checkpoints/proser.pt",
+      "selected_epoch": 2,
+      "validation_accuracy": 0.952,
+      "selection_data": "CIFAR-10 validation only"
+    }
+  }
+}

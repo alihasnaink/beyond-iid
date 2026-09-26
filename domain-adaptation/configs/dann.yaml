@@ -1,0 +1,5 @@
+name: dann
+alignment_weight: 1.0
+grl_max_strength: 1.0
+discriminator_hidden: 256
+discriminator_dropout: 0.5

@@ -1,0 +1,60 @@
+{
+  "train": {
+    "photo": {
+      "dog": 151,
+      "elephant": 161,
+      "giraffe": 146,
+      "guitar": 149,
+      "horse": 159,
+      "house": 224,
+      "person": 346
+    },
+    "art_painting": {
+      "dog": 303,
+      "elephant": 204,
+      "giraffe": 228,
+      "guitar": 147,
+      "horse": 161,
+      "house": 236,
+      "person": 359
+    },
+    "cartoon": {
+      "dog": 311,
+      "elephant": 366,
+      "giraffe": 277,
+      "guitar": 108,
+      "horse": 259,
+      "house": 230,
+      "person": 324
+    }
+  },
+  "val": {
+    "photo": {
+      "dog": 38,
+      "elephant": 41,
+      "giraffe": 36,
+      "guitar": 37,
+      "horse": 40,
+      "house": 56,
+      "person": 86
+    },
+    "art_painting": {
+      "dog": 76,
+      "elephant": 51,
+      "giraffe": 57,
+      "guitar": 37,
+      "horse": 40,
+      "house": 59,
+      "person": 90
+    },
+    "cartoon": {
+      "dog": 78,
+      "elephant": 91,
+      "giraffe": 69,
+      "guitar": 27,
+      "horse": 65,
+      "house": 58,
+      "person": 81
+    }
+  }
+}

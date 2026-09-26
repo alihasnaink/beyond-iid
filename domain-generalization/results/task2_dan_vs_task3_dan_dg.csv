@@ -1,0 +1,3 @@
+task,method,target_access_during_training,sketch_accuracy,sketch_macro_f1
+Task 3 DG,erm,False,0.6312038686688725,0.6435994140880837
+Task 3 DG,dan_dg,False,0.04072283023670145,0.011179820424134438

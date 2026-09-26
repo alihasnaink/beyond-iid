@@ -1,0 +1,12 @@
+seed: 6304
+batch_size: 128
+# Keep data loading in the notebook/kernel process. Multiprocessing workers can
+# be inherited by forked Jupyter/Kaggle processes and then fail during cleanup
+# with "can only test a child process", often leaving training hung.
+num_workers: 0
+epochs: 100
+learning_rate: 0.1
+momentum: 0.9
+weight_decay: 0.0005
+validation_fraction: 0.10
+num_known_classes: 10

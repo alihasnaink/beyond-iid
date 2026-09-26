@@ -1,0 +1,13 @@
+category,class_name,path,source_only_prediction,comparison_method,adapted_prediction
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5285.png,person,cdan,dog
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5286.png,elephant,cdan,dog
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5287.png,elephant,cdan,dog
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5288.png,person,cdan,dog
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5289.png,elephant,cdan,dog
+improvement,dog,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/dog/5292.png,horse,cdan,dog
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5922.png,elephant,cdan,person
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5923.png,elephant,cdan,person
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5928.png,elephant,cdan,person
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5929.png,elephant,cdan,person
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5931.png,elephant,cdan,dog
+degradation,elephant,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/elephant/5933.png,elephant,cdan,person

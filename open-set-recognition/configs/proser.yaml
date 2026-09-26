@@ -1,0 +1,7 @@
+name: proser
+epochs: 50
+learning_rate: 0.001
+dummy_classifiers: 5
+classifier_placeholder_beta: 1.0
+data_placeholder_gamma: 0.1
+mixup_beta_alpha: 2.0

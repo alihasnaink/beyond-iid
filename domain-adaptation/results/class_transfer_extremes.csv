@@ -1,0 +1,13 @@
+method,class_name,target_class_accuracy,change_vs_source_only,dominant_incorrect_prediction,class_count,transfer_type
+dan,elephant,0.8783783783783784,-0.043243243243243246,house,740,largest_improvement
+dan,dog,0.0,-0.2927461139896373,elephant,772,largest_improvement
+dan,person,0.0,-0.95625,elephant,160,largest_degradation
+dan,guitar,0.0,-0.8980263157894737,house,608,largest_degradation
+dann,elephant,1.0,0.07837837837837835,none,740,largest_improvement
+dann,dog,0.0,-0.2927461139896373,elephant,772,largest_improvement
+dann,person,0.0,-0.95625,elephant,160,largest_degradation
+dann,guitar,0.0,-0.8980263157894737,elephant,608,largest_degradation
+cdan,dog,0.7992227979274611,0.5064766839378239,elephant,772,largest_improvement
+cdan,giraffe,0.4820717131474104,0.15803452855245687,dog,753,largest_improvement
+cdan,elephant,0.8202702702702702,-0.10135135135135143,dog,740,largest_degradation
+cdan,guitar,0.8601973684210527,-0.03782894736842102,person,608,largest_degradation

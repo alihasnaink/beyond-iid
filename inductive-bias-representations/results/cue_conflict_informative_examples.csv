@@ -1,0 +1,13 @@
+conflict_id,clip_vit_b32,clip_zeroshot,resnet50,vit_b16,n_unique_predictions,path,content_class,style_class
+p4_ship_shape__monkey_texture_29,truck,monkey,ship,car,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_ship_shape__monkey_texture_29.png,ship,monkey
+p0_airplane_shape__bird_texture_06,dog,deer,bird,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p0_airplane_shape__bird_texture_06.png,airplane,bird
+p4_monkey_shape__ship_texture_26,truck,bird,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_26.png,monkey,ship
+p4_monkey_shape__ship_texture_11,truck,bird,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_11.png,monkey,ship
+p4_monkey_shape__ship_texture_21,truck,monkey,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_21.png,monkey,ship
+p4_monkey_shape__ship_texture_25,truck,bird,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_25.png,monkey,ship
+p4_monkey_shape__ship_texture_13,truck,bird,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_13.png,monkey,ship
+p4_monkey_shape__ship_texture_03,truck,car,ship,airplane,4,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p4_monkey_shape__ship_texture_03.png,monkey,ship
+p0_airplane_shape__bird_texture_10,airplane,airplane,airplane,airplane,1,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p0_airplane_shape__bird_texture_10.png,airplane,bird
+p0_airplane_shape__bird_texture_13,bird,bird,bird,bird,1,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p0_airplane_shape__bird_texture_13.png,airplane,bird
+p0_airplane_shape__bird_texture_16,airplane,airplane,airplane,airplane,1,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p0_airplane_shape__bird_texture_16.png,airplane,bird
+p0_airplane_shape__bird_texture_25,bird,bird,bird,bird,1,/kaggle/working/beyond-iid/inductive-bias-representations/data/generated/cue_conflicts/p0_airplane_shape__bird_texture_25.png,airplane,bird

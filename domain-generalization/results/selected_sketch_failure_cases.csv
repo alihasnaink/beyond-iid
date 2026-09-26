@@ -1,0 +1,13 @@
+category,class_name,path,erm_prediction,comparison_method,comparison_prediction
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7373.png,person,sam,giraffe
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7376.png,person,sam,giraffe
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7380.png,horse,sam,giraffe
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7381.png,person,sam,giraffe
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7383.png,person,sam,giraffe
+improvement,giraffe,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/giraffe/7384.png,elephant,sam,giraffe
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12085.png,person,sam,giraffe
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12105.png,person,sam,elephant
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12133.png,person,sam,giraffe
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12137.png,person,sam,elephant
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12144.png,person,sam,giraffe
+degradation,person,/kaggle/input/datasets/nickfratto/pacs-dataset/pacs_data/pacs_data/sketch/person/12148.png,person,sam,elephant

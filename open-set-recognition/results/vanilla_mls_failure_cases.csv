@@ -1,0 +1,7 @@
+group,rank,identifier,official_test_index,unknown_class,predicted_known_class,unknownness_score,threshold,interpretation
+near,1,cifar100_test:6339,6339,bus,truck,-11.847434043884277,-5.8229660987854,plausible: road vehicle
+near,2,cifar100_test:7133,7133,bus,truck,-11.795134544372559,-5.8229660987854,plausible: road vehicle
+near,3,cifar100_test:9261,9261,leopard,frog,-11.567394256591797,-5.8229660987854,plausible: animal
+far,1,cifar100_test:5219,5219,mushroom,cat,-10.995820999145508,-5.8229660987854,surprising: fungus
+far,2,cifar100_test:6245,6245,chair,airplane,-10.983006477355957,-5.8229660987854,surprising: furniture
+far,3,cifar100_test:9795,9795,bowl,airplane,-10.964070320129395,-5.8229660987854,surprising: household object

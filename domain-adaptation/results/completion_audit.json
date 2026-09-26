@@ -1,0 +1,32 @@
+{
+  "required_outputs": [
+    "source_split_summary.json",
+    "run_manifest.csv",
+    "training_history_all_runs.csv",
+    "main_training_curves.png",
+    "dann_strength_training_curves.png",
+    "main_method_comparison.csv",
+    "final_comparison_all_runs.csv",
+    "domain_separability.csv",
+    "target_per_class_changes.csv",
+    "domain_separability_vs_target_accuracy.png",
+    "class_transfer_extremes.csv",
+    "target_per_class_accuracy_changes.png",
+    "target_confusion_matrices.png",
+    "selected_target_failure_cases.png",
+    "selected_target_failure_cases.csv",
+    "target_predictions.csv",
+    "dann_strength_study.csv",
+    "dann_strength_study.png"
+  ],
+  "main_methods": [
+    "source_only",
+    "dan",
+    "dann",
+    "cdan"
+  ],
+  "main_rows": 4,
+  "per_class_rows": 28,
+  "failure_case_comparison_method": "cdan",
+  "target_labels_used_only_in_final_evaluation": true
+}

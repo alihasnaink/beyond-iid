@@ -1,0 +1,24 @@
+{
+  "device": "cuda",
+  "selection": {
+    "vanilla": {
+      "epoch": 93,
+      "validation_accuracy": 0.9532
+    },
+    "gcsc": {
+      "epoch": 99,
+      "validation_accuracy": 0.9604
+    },
+    "proser": {
+      "epoch": 2,
+      "validation_accuracy": 0.952
+    }
+  },
+  "known_train_count": 45000,
+  "known_validation_count": 5000,
+  "known_test_count": 10000,
+  "near_unknown_count": 800,
+  "far_unknown_count": 800,
+  "cifar100_train_used": false,
+  "protocol_lock": "/kaggle/working/beyond-iid/open-set-recognition/results/protocol_lock.json"
+}

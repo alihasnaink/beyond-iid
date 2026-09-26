@@ -1,0 +1,6 @@
+run_name,method,main_comparison,checkpoint,alignment_weight,rho,uses_sketch_during_training_or_selection
+erm,erm,True,/kaggle/working/beyond-iid/shared/checkpoints/source_only_pacs_sketch_seed6304.pt,,,False
+dan_dg,dan_dg,True,/kaggle/working/beyond-iid/domain-generalization/results/checkpoints/dan_dg.pt,1.0,,False
+sam,sam,True,/kaggle/working/beyond-iid/domain-generalization/results/checkpoints/sam.pt,,0.05,False
+sam_rho_0p01,sam,False,/kaggle/working/beyond-iid/domain-generalization/results/checkpoints/sam_rho_0p01.pt,,0.01,False
+sam_rho_0p1,sam,False,/kaggle/working/beyond-iid/domain-generalization/results/checkpoints/sam_rho_0p1.pt,,0.1,False

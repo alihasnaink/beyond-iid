@@ -1,0 +1,7 @@
+run_name,method,main_comparison,checkpoint,grl_max_strength,alignment_weight
+source_only,source_only,True,/kaggle/working/beyond-iid/shared/checkpoints/source_only_pacs_sketch_seed6304.pt,,0.0
+dan,dan,True,/kaggle/working/beyond-iid/domain-adaptation/results/checkpoints/dan.pt,,1.0
+dann,dann,True,/kaggle/working/beyond-iid/domain-adaptation/results/checkpoints/dann.pt,1.0,1.0
+cdan,cdan,True,/kaggle/working/beyond-iid/domain-adaptation/results/checkpoints/cdan.pt,1.0,1.0
+dann_alpha_0p25,dann,False,/kaggle/working/beyond-iid/domain-adaptation/results/checkpoints/dann_alpha_0p25.pt,0.25,1.0
+dann_alpha_0p5,dann,False,/kaggle/working/beyond-iid/domain-adaptation/results/checkpoints/dann_alpha_0p5.pt,0.5,1.0

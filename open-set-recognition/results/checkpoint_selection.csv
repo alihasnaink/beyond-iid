@@ -1,0 +1,4 @@
+method,checkpoint,selected_epoch,validation_accuracy,selection_data
+vanilla,/kaggle/working/beyond-iid/open-set-recognition/checkpoints/vanilla.pt,93,0.9532,CIFAR-10 validation only
+gcsc,/kaggle/working/beyond-iid/open-set-recognition/checkpoints/gcsc.pt,99,0.9604,CIFAR-10 validation only
+proser,/kaggle/working/beyond-iid/open-set-recognition/checkpoints/proser.pt,2,0.952,CIFAR-10 validation only

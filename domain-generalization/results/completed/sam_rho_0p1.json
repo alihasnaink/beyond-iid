@@ -1,0 +1,5 @@
+{
+  "best_epoch": 27,
+  "checkpoint": "/kaggle/working/beyond-iid/domain-generalization/results/checkpoints/sam_rho_0p1.pt",
+  "mean_source_val_macro_f1": 0.9358881532267977
+}

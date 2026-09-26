@@ -1,0 +1,13 @@
+ATML-PA1.pdf
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+**/data/raw/
+**/data/cache/
+**/data/generated/
+shared/checkpoints/
+results.zip
+domain-adaptation/results/results.zip
+**/checkpoints/
+**/cache/*
+!**/cache/.gitkeep

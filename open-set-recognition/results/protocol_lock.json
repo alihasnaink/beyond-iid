@@ -1,0 +1,30 @@
+{
+  "statement": "Checkpoints and score definitions fixed before CIFAR-100 evaluation.",
+  "checkpoint_sha256": {
+    "vanilla": "dfb41f07584f3c37403b520ec7bb77343c495642819db73f8be9d2c8ef1b3f2d",
+    "gcsc": "d391904738c07bf869a3b103d2a67aa6423a5b5da976fadd2473254fd6c3f1e1",
+    "proser": "911937556ac9f7d27c419a329721d1cca9959bed7f8cd6364b95f9c96d3391da"
+  },
+  "score_definition_sha256": {
+    "__init__.py": "5e87860e8434506644d0c0bd528812eefc65fd58e16058d6a2121af58244a65e",
+    "energy.py": "15c9e6d78b00ae1c44b7d7b2fe2ca5c3dce74632f3d90c8a1d4b409a9b0d9f8a",
+    "mahalanobis.py": "0a2b559e18c3f898efc08680506e2766515cf17a01f9d6cba5538860e7021505",
+    "mls.py": "4a6bb00c1fe4e47d103847b6e6a42165342f7146b009ec6facb9c719b45b5c5c",
+    "msp.py": "576e2a6f75e701390c2a4024b624e8cedb221c8420faf7b07c8bccc1341b9c43",
+    "placeholder.py": "b78a3342a44b35af44ccec416abf2bdd091ca007ef66bbfb530c3789f31107ae"
+  },
+  "selection": {
+    "vanilla": {
+      "epoch": 93,
+      "validation_accuracy": 0.9532
+    },
+    "gcsc": {
+      "epoch": 99,
+      "validation_accuracy": 0.9604
+    },
+    "proser": {
+      "epoch": 2,
+      "validation_accuracy": 0.952
+    }
+  }
+}

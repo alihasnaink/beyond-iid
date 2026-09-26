@@ -1,0 +1,22 @@
+{
+  "near": [
+    "bus",
+    "pickup_truck",
+    "motorcycle",
+    "tractor",
+    "wolf",
+    "fox",
+    "leopard",
+    "camel"
+  ],
+  "far": [
+    "bottle",
+    "bowl",
+    "chair",
+    "clock",
+    "keyboard",
+    "mushroom",
+    "sunflower",
+    "wardrobe"
+  ]
+}

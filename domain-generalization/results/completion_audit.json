@@ -1,0 +1,34 @@
+{
+  "required_outputs": [
+    "source_split_summary.json",
+    "run_manifest.csv",
+    "training_history_all_runs.csv",
+    "main_training_curves.png",
+    "sam_radius_training_curves.png",
+    "source_validation_comparison.csv",
+    "source_domain_separability.csv",
+    "sharpness_proxy.csv",
+    "source_diagnostics.png",
+    "main_method_comparison.csv",
+    "final_comparison_all_runs.csv",
+    "sketch_per_class_changes.csv",
+    "sketch_predictions.csv",
+    "sketch_confusion_matrices.png",
+    "selected_sketch_failure_cases.csv",
+    "selected_sketch_failure_cases.png",
+    "sketch_per_class_accuracy_changes.png",
+    "sam_radius_study.csv",
+    "sam_radius_study.png",
+    "task2_dan_vs_task3_dan_dg.csv"
+  ],
+  "main_methods": [
+    "erm",
+    "dan_dg",
+    "sam"
+  ],
+  "main_rows": 3,
+  "per_class_rows": 35,
+  "task2_comparison_available": false,
+  "sketch_loaded_only_after_configuration_lock": true,
+  "sketch_used_during_training_selection_or_source_diagnostics": false
+}

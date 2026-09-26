@@ -1,0 +1,54 @@
+{
+  "classes": [
+    "airplane",
+    "bird",
+    "car",
+    "cat",
+    "deer",
+    "dog",
+    "horse",
+    "monkey",
+    "ship",
+    "truck"
+  ],
+  "config": {
+    "batch_size": 64,
+    "conflicts_per_direction": 30,
+    "head_lr": 0.001,
+    "head_patience": 5,
+    "head_weight_decay": 0.0001,
+    "hue_factor": 0.25,
+    "image_size": 224,
+    "max_head_epochs": 50,
+    "min_conflicts_per_direction": 20,
+    "num_workers": 0,
+    "seed": 6304,
+    "style_alpha": 0.8,
+    "test_per_class": 50,
+    "tsne_iterations": 1000,
+    "tsne_pairs": 150,
+    "tsne_perplexity": 30
+  },
+  "cue_pairs": [
+    [
+      "airplane",
+      "bird"
+    ],
+    [
+      "car",
+      "truck"
+    ],
+    [
+      "cat",
+      "dog"
+    ],
+    [
+      "deer",
+      "horse"
+    ],
+    [
+      "monkey",
+      "ship"
+    ]
+  ]
+}
